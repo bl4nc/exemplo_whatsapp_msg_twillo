@@ -1,0 +1,9 @@
+vendor
+.env
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code
+.vscode/
