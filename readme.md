@@ -23,8 +23,8 @@ Este projeto é um exemplo simples de como enviar mensagens via WhatsApp usando 
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/seu-usuario/exemplo_whatsapp_msg_twillo.git
+    cd exemplo_whatsapp_msg_twillo
     ```
 
 2. Instale as dependências do projeto usando o Composer:
@@ -107,5 +107,5 @@ $message = $twilio->messages
 - [PHP dotenv Library](https://github.com/vlucas/phpdotenv)
 
 ## Licença
-Este projeto é licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](.license)
+Este projeto é licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE)
  para mais detalhes.
